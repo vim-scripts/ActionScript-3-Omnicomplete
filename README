@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2478
+
+This plug-in will enable omnicompletion for ActionScript 3 files.
+
+It covers the majority of classes in the &#039flash&#039 package but still lacks those found in &#039mx&#039, &#039air&#039, and &#039flashx&#039.
+
+Obviously, a work in progress.
